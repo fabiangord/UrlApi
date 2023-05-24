@@ -1,5 +1,7 @@
 # URL Api
 
+LA APLICACIÓN SE ENCUENTRA EN DESARROLLO.
+
 Consiste en una aplicación al ingresar con tus credenciales, permite guardar cualquier link de la internet que tu quieras, de este modo tendrás a la mano en todo momento aquellas aplicaciones web que usas todo el tiempo
 
 Desarrollada en NodeJS con Typescript, usando de base de datos MongoDB, y algunas otras dependencias que podemos encontrar en el package-json
